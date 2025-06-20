@@ -4,6 +4,8 @@ This project is a **memory visualization tool** built using **C++** and **SFML (
 
 ---
 
+![image alt](https://github.com/StarBoy-44/Memory_Manager/blob/11ad6f3c69c4fd6529c99c2ddd2c18ccf24b528c/Screenshot%20From%202025-06-20%2012-02-18.png)
+
 ## Features
 
 * **Animated and visually appealing UI**: The layout uses glowing outlines, subtle gradients, and animated effects to make the simulation both informative and engaging.
